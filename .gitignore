@@ -1,0 +1,9 @@
+# Ignorar todo excepto los archivos necesarios del diagrama
+*
+!.gitignore
+!index.html
+!diagrama.html
+!Imagenes/
+!Imagenes/**
+!.github/
+!.github/**
