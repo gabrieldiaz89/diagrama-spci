@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Fondo circular azul marino -->
+  <circle cx="250" cy="250" r="250" fill="#222b4c" />
+
+  <!-- Anillo circular blanco interior -->
+  <circle cx="250" cy="250" r="218" fill="none" stroke="#ffffff" stroke-width="7" />
+
+  <!-- Letra 'A' en blanco -->
+  <path fill="#ffffff" fill-rule="evenodd" d="
+    M 215,100 
+    L 285,100 
+    L 391,354 
+    L 333,354 
+    L 310,298 
+    L 190,298 
+    L 167,354 
+    L 109,354 
+    Z 
+    M 250,155 
+    L 291,254 
+    L 209,254 
+    Z" />
+
+  <!-- Puntos laterales en color celeste/cian -->
+  <circle cx="32" cy="250" r="28" fill="#5cc2d6" />
+  <circle cx="468" cy="250" r="28" fill="#5cc2d6" />
+</svg>
